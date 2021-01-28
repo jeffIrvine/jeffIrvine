@@ -10,6 +10,7 @@
 Dark mode forever
 ***
 
+Tech Stack:
 | Languages: | Frameworks/Libraries | Testing   | Databases   | Tools    |
 |------------|----------------------|-----------|-------------|----------|
 | JavaScript | React                | Jest      | PostgresSQL | VSCode   |
