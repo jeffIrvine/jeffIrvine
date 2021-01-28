@@ -1,14 +1,16 @@
-<div align='center'>
+<p align='center'>
+         
          ██╗███████╗███████╗███████╗    ██╗██████╗ ██╗   ██╗██╗███╗   ██╗███████╗
          ██║██╔════╝██╔════╝██╔════╝    ██║██╔══██╗██║   ██║██║████╗  ██║██╔════╝
          ██║█████╗  █████╗  █████╗      ██║██████╔╝██║   ██║██║██╔██╗ ██║█████╗  
     ██   ██║██╔══╝  ██╔══╝  ██╔══╝      ██║██╔══██╗╚██╗ ██╔╝██║██║╚██╗██║██╔══╝  
     ╚█████╔╝███████╗██║     ██║         ██║██║  ██║ ╚████╔╝ ██║██║ ╚████║███████╗
      ╚════╝ ╚══════╝╚═╝     ╚═╝         ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝╚══════╝
- </div>
+     
+ </p>
                                                                              
 ***
-Dark mode forever
+<p align='center'>Dark mode forever</p>
 ***
 
 Tech Stack:
@@ -22,9 +24,9 @@ Tech Stack:
 |            |                      |           |             | Zoom     |
 
 ***
-Contact Me
+<p align='center'>Contact Me</p>
 
-linkedin.com/in/irvinejeff | jirvine1212@gmail.com
+<div align='center'> linkedin.com/in/irvinejeff | jirvine1212@gmail.com
 
 
 <!--
