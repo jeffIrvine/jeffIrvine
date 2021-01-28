@@ -31,7 +31,7 @@ Tech Stack:
 
 <p align='center'>Contact Me</p>
 
-<div align='center'> linkedin.com/in/irvinejeff |  jirvine1212@gmail.com
+<p align='center'> <a>linkedin.com/in/irvinejeff</a> |  <a>jirvine1212@gmail.com</a> </p>
 
 
 <!--
