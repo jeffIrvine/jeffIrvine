@@ -20,9 +20,10 @@ Tech Stack:
 |------------|----------------------|-----------|-------------|----------|
 | JavaScript | React                | Jest      | PostgresSQL | VSCode   |
 | HTML       | Node.js              | QUnit     |             | Heroku   |
-| CSS        | Express              | Supertest |             | Postman  |
+| CSS        | Express              | Supertest |             | REST API |
 |            | jQuery               |           |             | PGAdmin4 |
 |            | Pug.js               |           |             | Github   |
+|            | P5.js                |           |             | Postman  |
 |            |                      |           |             | Zoom     |
 
 </div>
