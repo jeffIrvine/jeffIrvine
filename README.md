@@ -1,6 +1,6 @@
 
-<div>
- <img src='./assets/rodentsRevenge.mp4>
+<div align="center">
+ <img src="./assets/rodentsRevenge.mp4">
 </div>
 
 
