@@ -24,7 +24,7 @@ Tech Stack:
 |            | jQuery               |           |             | PGAdmin4 |
 |            | Pug.js               |           |             | Github   |
 |            | P5.js                |           |             | Postman  |
-|            | GraphQL              |           |             | Zoom     |
+|            | GraphQL              |           |             | Miro     |
 
 </div>
 
