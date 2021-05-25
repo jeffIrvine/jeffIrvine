@@ -26,6 +26,7 @@ Tech Stack:
 |            | P5.js                |           |             | Postman  |
 |            | GraphQL              |           |             | Miro     |
 
+Currently playing with: Python, Typescript, and Next.js
 </div>
 
 ***
