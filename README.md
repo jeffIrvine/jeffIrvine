@@ -34,6 +34,6 @@ Currently playing with: Python
 
 <p align='center'>Contact Me</p>
 
-<p align='center'><a href='https://www.linkedin.com/in/irvinejeff/'>LinkedIn</a> | <a href='mailto:jirvine1212@gmail.com'>Gmail</a> </p>
+<p align='center'><a href='https://www.linkedin.com/in/irvinejeff/'>LinkedIn</a>
 
 
