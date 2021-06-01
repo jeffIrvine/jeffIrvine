@@ -25,6 +25,7 @@ Tech Stack:
 |            | Pug.js               |           |             | Github   |
 |            | P5.js                |           |             | Postman  |
 |            | GraphQL              |           |             | Miro     |
+|            | Selenium             |           |             |          |
 
 Currently playing with: Python
 </div>
