@@ -18,13 +18,13 @@
 Tech Stack:
 | Languages: | Frameworks/Libraries | Testing   | Databases   | Tools    |
 |------------|----------------------|-----------|-------------|----------|
-| JavaScript | React                | Jest      | PostgresSQL | VSCode   |
-| HTML       | Node.js              | QUnit     |             | Heroku   |
+| JavaScript | React                | Jest      | PostgresSQL | Heroku   |
+| HTML       | Node.js              | QUnit     |             | Postman  |
 | CSS        | Express              | Supertest |             | REST API |
 |            | jQuery               |           |             | PGAdmin4 |
 |            | Pug.js               |           |             | Github   |
-|            | P5.js                |           |             | Postman  |
-|            | GraphQL              |           |             | Miro     |
+|            | P5.js                |           |             | Miro     |
+|            | GraphQL              |           |             |          |
 |            | Selenium             |           |             |          |
 
 Currently playing with: Python
